@@ -23,3 +23,16 @@ Here's another cool example of C# programming!
 ![consolidation](https://github.com/seanmoserr/midtermProject/blob/main/consolidation.png)
 
 Here is an _example_ of a C# program that utilizes [classes](https://github.com/seanmoserr/midtermProject/blob/main/Program.cs). 
+
+
+## Helpful Links
+
+[About Me](https://github.com/seanmoserr/midtermProject/blob/main/aboutMe.md)
+
+[Coding](https://github.com/seanmoserr/midtermProject/blob/main/favoriteCoding.md)
+
+[Program](https://github.com/seanmoserr/midtermProject/blob/main/Program.cs)
+
+[Read Me](https://github.com/seanmoserr/midtermProject/blob/main/README.md)
+
+[Demo](https://github.com/seanmoserr/midtermProject/new/main/random.md)
