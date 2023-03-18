@@ -6,3 +6,5 @@ Attached and linked into this project are various pages that reflect information
 
 ## Helpful Links
 [About Me](https://github.com/seanmoserr/midtermProject/blob/main/aboutMe.md)
+[Coding](https://github.com/seanmoserr/midtermProject/blob/main/favoriteCoding.md)
+
