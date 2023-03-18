@@ -20,3 +20,16 @@ I am a sophomore at the [University of Missouri](https://missouri.edu/), studyin
     
     
     Here is a picture of a **minion!**
+    
+
+## Helpful Links
+
+[About Me](https://github.com/seanmoserr/midtermProject/blob/main/aboutMe.md)
+
+[Coding](https://github.com/seanmoserr/midtermProject/blob/main/favoriteCoding.md)
+
+[Program](https://github.com/seanmoserr/midtermProject/blob/main/Program.cs)
+
+[Read Me](https://github.com/seanmoserr/midtermProject/blob/main/README.md)
+
+[Demo](https://github.com/seanmoserr/midtermProject/new/main/random.md)
