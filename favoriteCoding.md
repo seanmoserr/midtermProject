@@ -20,6 +20,8 @@ Coding is a lot of fun. We're going to be working with some `variables`.
     
 Here's another cool example of C# programming! 
 
+![consolidation](https://github.com/seanmoserr/midtermProject/blob/main/consolidation.png)
+
 
 
     
