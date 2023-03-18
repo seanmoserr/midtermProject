@@ -33,3 +33,6 @@ I am a sophomore at the [University of Missouri](https://missouri.edu/), studyin
 [Read Me](https://github.com/seanmoserr/midtermProject/blob/main/README.md)
 
 [Demo](https://github.com/seanmoserr/midtermProject/new/main/random.md)
+
+[HELP](https://github.com/seanmoserr/midtermProject/edit/main/thankYou.md)
+
