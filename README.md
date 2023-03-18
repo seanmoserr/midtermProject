@@ -9,7 +9,7 @@
 + formatted text!
 
 
-### Helpful Links
+## Helpful Links
 
 [About Me](https://github.com/seanmoserr/midtermProject/blob/main/aboutMe.md)
 
@@ -18,3 +18,8 @@
 [Program](https://github.com/seanmoserr/midtermProject/blob/main/Program.cs)
 
 [Read Me](https://github.com/seanmoserr/midtermProject/blob/main/README.md)
+
+[Demo](https://github.com/seanmoserr/midtermProject/new/main/random.md)
+
+[HELP](https://github.com/seanmoserr/midtermProject/edit/main/thankYou.md)
+
