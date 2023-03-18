@@ -16,3 +16,5 @@ Attached and linked into this project are various pages that reflect information
 
 [Demo](https://github.com/seanmoserr/midtermProject/new/main/random.md)
 
+[HELP](https://github.com/seanmoserr/midtermProject/edit/main/thankYou.md)
+
