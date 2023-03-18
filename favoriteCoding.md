@@ -22,6 +22,8 @@ Here's another cool example of C# programming!
 
 ![consolidation](https://github.com/seanmoserr/midtermProject/blob/main/consolidation.png)
 
+Here is an _example_ of a C# program that utilizes [classes](https://github.com/seanmoserr/midtermProject/edit/main/aboutMe.md). 
+
 
 
     
