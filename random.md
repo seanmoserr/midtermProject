@@ -7,7 +7,7 @@
 
 :bulb: **Remember:** You have gotten yourself this far, trust you can keep going. 
 
-![giraffe](https://upload.wikimedia.org/wikipedia/commons/7/70/A_Giraffe.jpg)
+![giraffe](https://github.com/seanmoserr/midtermProject/blob/main/A_Giraffe.jpeg)
 
 
 ## Helpful Links
