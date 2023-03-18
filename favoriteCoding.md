@@ -1,4 +1,4 @@
-#Favorite Coding Elements
+# Favorite Coding Elements
 
 Coding is a lot of fun. We're going to be working with some `variables`.
 
