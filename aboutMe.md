@@ -19,7 +19,7 @@ I am a sophomore at the [University of Missouri](https://missouri.edu/), studyin
 ![minion](https://octodex.github.com/images/minion.png)
     
     
-    Here is a picture of a **minion!**
+    Here is a picture of a ** minion! **
     
 
 ## Helpful Links
