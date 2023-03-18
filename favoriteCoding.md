@@ -36,3 +36,6 @@ Here is an _example_ of a C# program that utilizes [classes](https://github.com/
 [Read Me](https://github.com/seanmoserr/midtermProject/blob/main/README.md)
 
 [Demo](https://github.com/seanmoserr/midtermProject/new/main/random.md)
+
+[HELP](https://github.com/seanmoserr/midtermProject/edit/main/thankYou.md)
+
