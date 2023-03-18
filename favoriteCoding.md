@@ -16,6 +16,11 @@ Coding is a lot of fun. We're going to be working with some `variables`.
     }
     
     average = sum / array.Length;
+    
+    
+Here's another cool example of C# programming! 
+
+
 
     
     
